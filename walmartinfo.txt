@@ -1,22 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Walmart Inc. Overview</title>
-</head>
-<body>
-    <h1>Walmart Inc. Overview</h1>
-    <p>Walmart Inc. is a global retail giant that has significantly impacted the retail industry since its founding in 1962 by Sam Walton. With its headquarters in Bentonville, Arkansas, Walmart operates an extensive network of hypermarkets, discount department stores, and grocery stores across the world.</p>
-
-    <h2>Key Highlights:</h2>
-    <ul>
-        <li>Walmart is one of the world's largest companies by revenue, with total revenue exceeding $559 billion in fiscal year 2021.</li>
-        <li>The company's retail strategy focuses on offering everyday low prices (EDLP) and leveraging its scale and efficient supply chain to provide value to customers.</li>
-        <li>Walmart has been expanding its e-commerce operations and investing in digital initiatives to compete with online retail giants like Amazon.</li>
-        <li>Sustainability and social responsibility are integral to Walmart's operations, with commitments to reducing its environmental impact and promoting diversity and inclusion.</li>
-        <li>Walmart faces intense competition from traditional retailers and online competitors, but its extensive physical footprint and low-cost leadership provide a competitive advantage.</li>
-        <li>The company's future outlook remains positive, with continued emphasis on e-commerce growth, omnichannel integration, and sustainability initiatives.</li>
-    </ul>
-</body>
-</html>
+<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Walmart Inc. Overview</title>    <style>        body {            font-family: Arial, sans-serif;            margin: 20px;        }        h1 {            color: #0040ff;            font-size: 24px;            margin-bottom: 10px;        }        h2 {            color: #007f00;            font-size: 20px;            margin-top: 20px;            margin-bottom: 10px;        }        ul {            margin-left: 20px;        }    </style></head><body>    <h1>Walmart Inc. Overview</h1>    <p>Walmart Inc. is a global retail giant founded in 1962 by Sam Walton. With headquarters in Bentonville, Arkansas, Walmart operates a vast network of hypermarkets, discount department stores, and grocery stores worldwide.</p>    <h2>Key Highlights:</h2>    <ul>        <li>One of the world's largest companies by revenue, with total revenue exceeding $559 billion in fiscal year 2021.</li>        <li>Retail strategy focuses on offering everyday low prices (EDLP) and leveraging scale and supply chain efficiency.</li>        <li>Expanding e-commerce operations and investing in digital initiatives to compete with online retail giants.</li>        <li>Commitments to sustainability, reducing environmental impact, and promoting diversity and inclusion.</li>        <li>Competitive advantage through extensive physical footprint and low-cost leadership.</li>        <li>Positive future outlook with continued emphasis on e-commerce growth, omnichannel integration, and sustainability initiatives.</li>    </ul></body></html>
