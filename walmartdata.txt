@@ -1,4 +1,17 @@
-1. Walmart Inc. (NYSE: WMT) is publicly traded on the New York Stock Exchange.
-2. Investors monitor quarterly earnings, market capitalization, and dividend yield for insights into its performance.
-3. Stock performance is influenced by financial reports, market trends, and consumer spending behavior.
-4. For real-time data, investors rely on financial news sources and stock market analysis platforms.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Walmart Share Market Data</title>
+</head>
+<body>
+    <h1>Walmart Share Market Data</h1>
+    <ul>
+        <li>Walmart Inc. (NYSE: WMT) is publicly traded on the New York Stock Exchange.</li>
+        <li>Investors track quarterly earnings, market capitalization, and dividend yield for insights into performance.</li>
+        <li>Stock performance is influenced by financial reports, market trends, and consumer spending behavior.</li>
+        <li>For real-time data, investors rely on financial news sources and stock market analysis platforms.</li>
+    </ul>
+</body>
+</html>
