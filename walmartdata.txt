@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Walmart Share Market Data</title>
-</head>
-<body>
-    <h1>Walmart Share Market Data</h1>
-    <ul>
-        <li>Walmart Inc. (NYSE: WMT) is publicly traded on the New York Stock Exchange.</li>
-        <li>Investors track quarterly earnings, market capitalization, and dividend yield for insights into performance.</li>
-        <li>Stock performance is influenced by financial reports, market trends, and consumer spending behavior.</li>
-        <li>For real-time data, investors rely on financial news sources and stock market analysis platforms.</li>
-    </ul>
-</body>
-</html>
+<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Walmart Share Market Data</title>    <style>        body {            font-family: Arial, sans-serif;            margin: 20px;        }        h1 {            color: #0040ff;            font-size: 24px;            margin-bottom: 10px;        }        ul {            list-style-type: disc;            margin-left: 20px;        }        li {            margin-bottom: 5px;        }    </style></head><body>    <h1>Walmart Share Market Data</h1>    <ul>        <li>Walmart Inc. (NYSE: WMT) is publicly traded on the New York Stock Exchange.</li>        <li>Investors monitor quarterly earnings, market capitalization, and dividend yield for insights into its performance.</li>        <li>Stock performance is influenced by financial reports, market trends, and consumer spending behavior.</li>        <li>For real-time data, investors rely on financial news sources and stock market analysis platforms.</li>    </ul></body></html>
